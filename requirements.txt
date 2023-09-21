@@ -1,0 +1,4 @@
+openai
+telethon
+beautifulsoup4
+httpx
